@@ -1,0 +1,7 @@
+asgiref==3.8.1
+17 Django==4.2.11
+18 Faker==24.4.0
+19 python-dateutil==2.9.0.post0
+20 six==1.16.0
+21 sqlparse==0.4.4
+22 typing_extensions==4.10.0
